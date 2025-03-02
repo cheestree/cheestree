@@ -15,7 +15,7 @@ I also play the piano and spend time at the gym.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheestree&layout=compact)
 
-I'm currently working on my **Final Project** A.K.A. **Vetley**, which you can check out [here](https://github.com/cheestree/Vetley)
+I'm currently working on my **Final Project** A.K.A. **Vetly**, which you can check out [here](https://github.com/cheestree/Vetly)
 
 <!--
 **cheestree/cheestree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
