@@ -1,32 +1,27 @@
-## Hi there 👋
+## Pleasure to meet you! 👋
 
-My name is Daniel (also known as :cheese:). I'm a **Software Engineer** student, currently in the 1st year of my Master's Degree in Software Engineering.
+My name is Daniel. I'm a **Software Engineer** student, currently in the 1st year of my Master's Degree in Software Engineering @ **FCUL**.
 
-I mainly code in **Kotlin** (academically and not) but I also have some experience with other **OOP** languages such <br/>
-as **C++**, **Java**, **Python**, **Ruby** and **JS**. Interested in continuing my **COBOL** studies if time allows it.
+I'm proficient with **Kotlin**, **Java**, **TypeScript**, and **Python**, and I'm currently learning **Go** and **Ruby**; also exploring **COBOL** for fun.
 
-My hobbies include (in no specific order):
-- cooking.
-- debugging.
-- bugging.
-- debugging again.
-- pondering.
+### Currently
 
-I also play the piano and spend time at the gym.
+> Building: my **FCUL** notes repository and fixing older projects.
+
+- Learning: **Go**, **Ruby**, **COBOL**
+- Next up: learn a new language (not programming)
+
+### Selected projects
+
+- [Vetly](https://github.com/cheestree/vetly) — BSc final project, an all‑in‑one (AIO) platform for veterinarians
+- [FCUL notes and assignments](https://github.com/cheestree/fcul) — assignments and notes for my MSc
+
+### Tech habits and tendencies
+
+- Backend: **Kotlin** (Spring/Ktor), **Java**; **TypeScript** (Express); **Python** for scripts
+- Mobile: **Android** (Kotlin); **React Native** (TypeScript)
+- Frontend/CLI: **TypeScript**; small CLIs and utilities
+- Infra: **Docker**, **PostgreSQL**, **Google Cloud/Firebase**
+- Workflow: concept first, small spikes, then tests and cleanup
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheestree&layout=compact)
-
-<!--
-**cheestree/cheestree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
