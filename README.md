@@ -1,4 +1,4 @@
-## :cheese::tree:
+## :cheese::seedling:
 
 > If it is stupid but it works, it isn't stupid.
 
