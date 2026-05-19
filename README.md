@@ -7,7 +7,7 @@ Focused on backend and systems. I like building things that have to actually wor
 
 ### Stack
 
-[![Skills](https://skillicons.dev/icons?i=c,go,rust,java,js,kotlin,py,ts,spring,express,nodejs,react,androidstudio,electron,postgres,mysql,mongodb,cassandra,redis,docker,firebase,gcp,git,linux,postman)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=kotlin,java,go,ts,js,py,rust,spring,express,nodejs,react,androidstudio,electron,postgres,mysql,mongodb,cassandra,redis,docker,firebase,gcp,git,linux,postman)](https://skillicons.dev)
 
 ---
 
